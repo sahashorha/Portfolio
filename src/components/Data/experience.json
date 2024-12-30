@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Software Development Intern",
+    "organisation": "Regrow Tech India Pvt Ltd",
+    "startDate": "May 2024",
+    "endDate": "June 2024",
+    "location": "Jharkhand",
+    "experiences": [
+      "Improve UI/UX Design",
+      "Improve responsiveness and reducing server load"
+    ],
+    "imageSrc": "company/regrow.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "FrontEnd Developer",
+    "organisation": "OCtanet Services Pvt Ltd",
+    "startDate": "March,2024",
+    "endDate": "May,2024",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Node js , React js ",
+      "Implemented Single Page Application"
+    ],
+    "imageSrc": "company/Octanet.jpeg"
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Genrix Info Tech Pvt Ltd",
+    "startDate": "June, 2023",
+    "endDate": "September, 2023",
+    "location": "Jamshedpur, Jharkhand",
+    "experiences": [
+      "Worked on Windows form Application in .Net",
+      "Implemented Exam Management System Software using C# and Sql Server"
+    ],
+    "imageSrc": "company/generix.jpeg"
+  }
+]
